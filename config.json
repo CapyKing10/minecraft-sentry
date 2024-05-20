@@ -1,0 +1,13 @@
+{
+    "username": "",
+    "password": "",
+    "isCracked": true,
+    "ip": "",
+    "port": "",
+
+    "webhookURL": "",
+    "webhookName": "",
+    "embedFooterText": "",
+    "embedColor": "#FF0000",
+    "image": ""
+}
