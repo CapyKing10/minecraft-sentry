@@ -16,6 +16,8 @@ running bot locally:
 Here you list all prerequisites necessary for running your project. For example:
 
 - [NodeJS](https://nodejs.org/en/download/package-manager)
+
+
  
 <h3>Downloading</h3>
 
@@ -30,6 +32,8 @@ In the terminal, execute this command:
 ```
 npm install
 ```
+
+
  
 <h3>Configurating</h2>
 
@@ -50,6 +54,8 @@ here's and example configuration for the `config.json` file
     "image": "https://media.discordapp.net/attachments/image.png"
 }
 ```
+
+
  
 <h3>Starting</h3>
 
